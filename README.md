@@ -75,8 +75,8 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
   - why does this not affect everyone? this is sadly highly dependent on your genetics. some people deal with processed carbs way better than others.
   - this makes it way harder for some people to maintain their weight.
   - Video "[Why we get Fat AND Hungry](https://www.youtube.com/watch?v=KHaCKudtVi0)"
-  - Video "[What made the Ancient Egyptians Fat and Sick?](https://www.youtube.com/watch?v=YGq_EbYEaSY)"
   - Video "[Science of Weight Gain](https://www.youtube.com/watch?v=zcMBm-UVdII)"
+  - Video "[What made the Ancient Egyptians Fat and Sick?](https://www.youtube.com/watch?v=YGq_EbYEaSY)"
 - Myths: "Eating fat causes hearth disease" & "Eating fat makes you fat".
   - Video Part "[does Keto increases risk of Heath diseases?](https://www.youtube.com/watch?v=xlfZvnV4v50)"
   - Video "[What about Cholesterol?](https://www.youtube.com/watch?v=b7zWNabebxs)"
