@@ -9,6 +9,7 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
   - fasting can make you lose 500g of fat a day.
 - [☑︎](https://www.dietdoctor.com/biggest-loser-fail-ketogenic-weight-loss-study-success) many "traditional" weight loss methods are way harder and can cause your metabolism to suffer (the biggest-loser effect).
   - [☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=described%20in%20fasting.-,Noradrenaline,-Noradrenaline%20levels%20are) Fasting does not seem to cause a significant metabolic slowdown or muscle loss compared to continuous calorie restriction.
+  - Video "[Why are we still Counting Calories?](https://youtu.be/VyNgvMYb7iQ)"
 - [☑︎](https://blog.thefastingmethod.com/fasting-and-muscle-mass-fasting-part-14/) Fasting-induced ketosis makes you lose almost only fat. (losing less muscle or bone mass.)
   - [☑︎](https://blog.thefastingmethod.com/fasting-and-muscle-mass-fasting-part-14/) Fasting preserves lean body mass by stimulating growth hormone and reducing protein breakdown.
   - [☑︎ Dr. Jason Fung (MD) writes](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=Long%20term%20studies%20of%20intermittent%20fasting%20prove%20that%20the%20fasting%20strategy%20is%20more%20than%204%20times%20better%20at%20preserving%20lean%20mass%20percentage%20compared%20to%20caloric%20restriction.): Long term [studies of intermittent fasting](https://www.ncbi.nlm.nih.gov/pubmed/27569118) prove that the fasting strategy is more than 4 times better at preserving lean mass percentage compared to caloric restriction.
@@ -18,6 +19,7 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
 - [☑︎](https://www.dietdoctor.com/low-carb/ketosis#:~:text=Ketosis%20is%20a%20metabolic%20state%20in%20which%20your%20body%20uses%20fat%20and%20ketones%20rather%20than%20glucose%20(sugar)%20as%20its%20main%20fuel%20source.) In ketosis, Fat becomes the body's primary energy source.
   - [☑︎](https://youtu.be/Dan8qtgQRi8?t=275)[☑︎](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8840718/#:~:text=Interestingly%2C%20the%20authors%20demonstrated%20improved%20performance%20in%20a%20working%20memory%20bi%2Dconditional%20association%20task%20that%20reflect%20prefrontal%20cortex%20(PFC)%20and%20hippocampal%20interaction) Fat is a "better" source of energy for the brain than glucose, which makes you more focused, able, and smarter.
 - [☑︎](https://www.dietdoctor.com/low-carb/ketosis#:~:text=Established%20benefits%3A-,Appetite%20regulation,-%3A%20One%20of) Fasting-induced Ketosis reduces ghrelin (appetite hormone), making you feel less hungry.
+  - Video "[Intermittent Fasting & Hunger](https://www.youtube.com/watch?v=dFT2IKmwyfg)" 
 - [☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=salt%20and%20water.-,Growth%20hormone,-Growth%20hormone%20is) Fasting positively affects the growth hormone
   - which is a hormone that stimulates growth, cell reproduction, and regeneration. 
   - the growth hormone also has anti-aging, anti-obesity, and muscle-sparing effects.
@@ -25,6 +27,8 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
 - [☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=Hormonal%20Adaptation-,Insulin,-Fasting%20is%20the)[☑︎](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990470/)[☑︎](https://casereports.bmj.com/content/casereports/2018/bcr-2017-221854.full.pdf) Fasting is a good way to heal and prevent diabetic type 2.
   - [☑︎](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8653959/) Fasting can improve glucose control, insulin sensitivity, and beta-cell function in people with type 2 diabetes.
   - [☑︎ Dr. Bret Scher (MD) writes](https://www.dietdoctor.com/intermittent-fasting-the-best-diet-for-type-2-diabetes#:~:text=intermittent%20fasting%20combined%20with%20a%20low%20carb%20diet%20may%20be%20the%20best%20treatment%20of%20type%202%20diabetes%20that%20we%20have%20ever%20seen.): [...] intermittent fasting combined with a low carb diet may be the best treatment of type 2 diabetes that we have ever seen.
+  - Video "[Does Fat cause Type 2 Diabetes?](https://youtu.be/hpOP_HKeazU)"
+  - Video "[Obesity & Diabetes Explained](https://www.youtube.com/watch?v=xlfZvnV4v50)"
 - Fasting positively affects the long-term immune system.
   - Fasting can modulate the immune system in various ways, such as reducing inflammation, enhancing autophagy, stimulating stem cell regeneration, and altering gut microbiota.
   - These effects can potentially improve the immune response to infections, allergies, autoimmune diseases, and cancer 
@@ -70,10 +74,13 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
   - why do carbs cause this? the body is not evolved to digest highly processed carbs like we consume today.
   - why does this not affect everyone? this is sadly highly dependent on your genetics. some people deal with processed carbs way better than others.
   - this makes it way harder for some people to maintain their weight.
-  - https://www.youtube.com/watch?v=KHaCKudtVi0
-- High cholesterol was blamed for causing heart diseases. Nowadays this is a highly debatable topic and has been disproven by some studies.
-  - many doctors don't belive that high levels of cholesterol have any bad effects on the human body.
-  - that said, a ketogenic is going to increase your body's cholesterol.
+  - Video "[Why we get Fat AND Hungry](https://www.youtube.com/watch?v=KHaCKudtVi0)"
+  - Video "[What made the Ancient Egyptians Fat and Sick?](https://www.youtube.com/watch?v=YGq_EbYEaSY)"
+  - Video "[Science of Weight Gain](https://www.youtube.com/watch?v=zcMBm-UVdII)"
+- Myths: "Eating fat causes hearth disease" & "Eating fat makes you fat".
+  - Video Part "[does Keto increases risk of Heath diseases?](https://www.youtube.com/watch?v=xlfZvnV4v50)"
+  - Video "[What about Cholesterol?](https://www.youtube.com/watch?v=b7zWNabebxs)"
+  - Video "[Low-Fat Foods Are Making You Fatter](https://www.youtube.com/watch?v=oLtQLDptI1g)"
 
 ## some resources
 - MD peer-reviewed articles about Fasting and Keto https://www.dietdoctor.com/
