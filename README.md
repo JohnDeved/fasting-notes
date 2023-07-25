@@ -11,7 +11,7 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
   - Short-term fasting does not seem to cause a significant metabolic slowdown or muscle loss compared to continuous calorie restriction.
 - [☑︎](https://blog.thefastingmethod.com/fasting-and-muscle-mass-fasting-part-14/) Fasting-induced ketosis makes you lose almost only fat. (losing less muscle or bone mass.)
   - [☑︎](https://blog.thefastingmethod.com/fasting-and-muscle-mass-fasting-part-14/) Fasting preserves lean body mass by stimulating growth hormone and reducing protein breakdown.
-  - [☑︎ Dr. Jason Fung, MD](https://www.dietdoctor.com/fasting-affects-physiology-hormones) writes: Long term studies Proof [...] the fasting strategy is more than 4 times better at preserving lean mass percentage compared to caloric restriction.
+  - [☑︎ Dr. Jason Fung (MD) writes](https://www.dietdoctor.com/fasting-affects-physiology-hormones): Long term studies proof [...] the fasting strategy is more than 4 times better at preserving lean mass percentage compared to caloric restriction.
   - Video by Dr. Jason Fung "[Does Fasting Destroy Your Muscle?](https://www.youtube.com/watch?v=teQIaU6wp2o)"
   
 ## Positive side effects
@@ -24,7 +24,7 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
   - Fasting can increase growth hormone levels by up to 5-fold in men and 13-fold in women.
 - [☑︎](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990470/)[☑︎](https://casereports.bmj.com/content/casereports/2018/bcr-2017-221854.full.pdf) Fasting is a good way to heal and prevent diabetic type 2.
   - ☑︎ Fasting can improve glucose control, insulin sensitivity, and beta-cell function in people with type 2 diabetes.
-  - [☑︎ Dr. Bret Scher, MD](https://www.dietdoctor.com/intermittent-fasting-the-best-diet-for-type-2-diabetes): [...] Intermittent fasting combined with a low carb diet may be the best treatment of type 2 diabetes that we have ever seen.
+  - [☑︎ Dr. Bret Scher (MD) writes](https://www.dietdoctor.com/intermittent-fasting-the-best-diet-for-type-2-diabetes): [...] Intermittent fasting combined with a low carb diet may be the best treatment of type 2 diabetes that we have ever seen.
 - Fasting positively affects the long-term immune system.
   - Fasting can modulate the immune system in various ways, such as reducing inflammation, enhancing autophagy, stimulating stem cell regeneration, and altering gut microbiota.
   - These effects can potentially improve the immune response to infections, allergies, autoimmune diseases, and cancer 
@@ -66,6 +66,7 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
   - why do carbs cause this? the body is not evolved to digest highly processed carbs like we consume today.
   - why does this not affect everyone? this is sadly highly dependent on your genetics. some people deal with processed carbs way better than others.
   - this makes it way harder for some people to maintain their weight.
+  - https://www.youtube.com/watch?v=KHaCKudtVi0
 - High cholesterol was blamed for causing heart diseases. Nowadays this is a highly debatable topic and has been disproven by some studies.
   - many doctors don't belive that high levels of cholesterol have any bad effects on the human body.
   - that said, a ketogenic is going to increase your body's cholesterol.
