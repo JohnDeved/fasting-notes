@@ -7,8 +7,8 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
 ## weight (fat) loss
 - Short-term fasting on ketosis (5 days or so) is a good and healthy way to lose fat.
   - fasting can make you lose 500g of fat a day.
-- many "traditional" weight loss methods are way harder and can cause your metabolism to suffer (the biggest-loser effect).
-  - Short-term fasting does not seem to cause a significant metabolic slowdown or muscle loss compared to continuous calorie restriction.
+- [☑](https://www.dietdoctor.com/biggest-loser-fail-ketogenic-weight-loss-study-success) many "traditional" weight loss methods are way harder and can cause your metabolism to suffer (the biggest-loser effect).
+  - [☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=described%20in%20fasting.-,Noradrenaline,-Noradrenaline%20levels%20are) Fasting does not seem to cause a significant metabolic slowdown or muscle loss compared to continuous calorie restriction.
 - [☑︎](https://blog.thefastingmethod.com/fasting-and-muscle-mass-fasting-part-14/) Fasting-induced ketosis makes you lose almost only fat. (losing less muscle or bone mass.)
   - [☑︎](https://blog.thefastingmethod.com/fasting-and-muscle-mass-fasting-part-14/) Fasting preserves lean body mass by stimulating growth hormone and reducing protein breakdown.
   - [☑︎ Dr. Jason Fung (MD) writes](https://www.dietdoctor.com/fasting-affects-physiology-hormones): Long term studies proof [...] the fasting strategy is more than 4 times better at preserving lean mass percentage compared to caloric restriction.
@@ -16,7 +16,7 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
   
 ## Positive side effects
 - [☑︎](https://www.dietdoctor.com/low-carb/ketosis#:~:text=Ketosis%20is%20a%20metabolic%20state%20in%20which%20your%20body%20uses%20fat%20and%20ketones%20rather%20than%20glucose%20(sugar)%20as%20its%20main%20fuel%20source.) In ketosis, Fat becomes the body's primary energy source.
-  - Fat is a "better" source of energy for the brain than glucose, which makes you more focused, able, and smarter.
+  - [☑︎](https://youtu.be/Dan8qtgQRi8?t=275)[☑︎](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8840718/#:~:text=Interestingly%2C%20the%20authors%20demonstrated%20improved%20performance%20in%20a%20working%20memory%20bi%2Dconditional%20association%20task%20that%20reflect%20prefrontal%20cortex%20(PFC)%20and%20hippocampal%20interaction) Fat is a "better" source of energy for the brain than glucose, which makes you more focused, able, and smarter.
 - [☑︎](https://www.dietdoctor.com/low-carb/ketosis#:~:text=Established%20benefits%3A-,Appetite%20regulation,-%3A%20One%20of) Fasting-induced Ketosis reduces ghrelin (appetite hormone), making you feel less hungry.
 - [☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=salt%20and%20water.-,Growth%20hormone,-Growth%20hormone%20is) Fasting positively affects the growth hormone
   - which is a hormone that stimulates growth, cell reproduction, and regeneration. 
@@ -29,10 +29,10 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
   - Fasting can modulate the immune system in various ways, such as reducing inflammation, enhancing autophagy, stimulating stem cell regeneration, and altering gut microbiota.
   - These effects can potentially improve the immune response to infections, allergies, autoimmune diseases, and cancer 
 - [☑︎](https://josepheverettwil.substack.com/p/how-fasting-changes-testosterone) Fasting positively affects the testosterone hormone in men (after the fast).
-- Autophagy is activated by fasting, as it provides an alternative source of energy and nutrients for the cells.
+- [☑︎](https://www.dietdoctor.com/renew-body-fasting-autophagy#:~:text=What%20activates%20autophagy,activator%20of%20autophagy.) Autophagy is activated by fasting, as it provides an alternative source of energy and nutrients for the cells.
   - Autophagy can be described as a kind of "maintenance" mode,  "cleaning" the system.
-  - Autophagy is a cellular process that involves the degradation and recycling of damaged or unnecessary components, such as proteins, organelles, and pathogens.
-  - Autophagy can protect against aging, inflammation, infection, cancer, neurodegeneration, and metabolic disorders. 
+  - [☑︎](https://www.dietdoctor.com/renew-body-fasting-autophagy#:~:text=Autophagy%20%E2%80%93%20replacing%20old,to%20degrade%20proteins.) Autophagy is a cellular process that involves the degradation and recycling of damaged or unnecessary components, such as proteins, organelles, and pathogens.
+  - [☑︎](https://www.dietdoctor.com/renew-body-fasting-autophagy#:~:text=The%20consequences%20of,development%20of%20AD.) Autophagy can protect against aging, inflammation, infection, [cancer](https://www.dietdoctor.com/renew-body-fasting-autophagy#:~:text=The%20consequences%20of,development%20of%20AD.), [neurodegeneration](https://www.dietdoctor.com/renew-body-fasting-autophagy#:~:text=The%20consequences%20of,development%20of%20AD.), and metabolic disorders. 
   - [☑︎](https://www.wefast.care/articles/fasting-loose-skin#:~:text=Autophagy%20and%20loose%20skin) Autophagy can help mitigate loose skin from forming and may even improve existing loose skin.
     - [Video on Autophagy and Loose Skin](https://www.youtube.com/watch?v=xvxo77kSsjM)
 
@@ -56,9 +56,12 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
   - a light meal that is easy to digest and does not cause a sudden spike in blood sugar or insulin levels.
 
 ## clearing up common missunderstandings
-- [☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=described%20in%20fasting.-,Noradrenaline,-Noradrenaline%20levels%20are) "starvation mode" is a myth and fasting does not trigger it or anything like it.
+- Video "[Is Ketosis Dangerous?](https://www.youtube.com/watch?v=Dan8qtgQRi8)"
+- [☑︎](https://www.dietdoctor.com/biggest-loser-fail-ketogenic-weight-loss-study-success#:~:text=This%20is%20what%20is%20sometimes%20termed%20%E2%80%98starvation%20mode%E2%80%99.%20This%20is%20what%20people%20imagine%20happens%20as%20their%20body%20starts%20to%20shut%20down%20in%20order%20to%20conserve%20energy.%20Basal%20metabolism%20(Calories%20Out)%20falls%20and%20you%20feel%20like%20crap.)[☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=described%20in%20fasting.-,Noradrenaline,-Noradrenaline%20levels%20are) "starvation mode" is a myth, fasting does not trigger it or anything like it.
   -  [☑︎ Dr. Jason Fung (MD) writes](https://www.dietdoctor.com/fasting-affects-physiology-hormones): [...] 48 hours of fasting produces a [3.6% increase in metabolic rate](https://www.ncbi.nlm.nih.gov/pubmed/14066725), not the dreaded metabolic ‘shut-down’. [...] Resting metabolism is NOT decreased but instead increased.
-- "yo-yo effect" is a misunderstanding of destroying your metabolism with some bad "traditional" weight loss methods.
+      - [☑︎](https://www.dietdoctor.com/biggest-loser-fail-ketogenic-weight-loss-study-success#:~:text=That%20reducing%20calories,came%20right%20back.) the important difference to make is "Fasting is healthy, Restricting calories is not"
+      - Video "[Fasting vs. Eating Less: What's the Difference?](https://www.youtube.com/watch?v=APZCfmgzoS0)"
+- [☑︎](https://www.dietdoctor.com/biggest-loser-fail-ketogenic-weight-loss-study-success) "yo-yo effect" is a misunderstanding of destroying your metabolism with some bad "traditional" weight loss methods.
 - no, you are not "starving" yourself while fasting, under the right conditions the body is very capable of using the resources it has available.
    - there is a reason the body stores excessive available energy as fat in the first place, ketosis, and fasting enables you to use it.
    - eating carbs somewhat "blocks" the body from effectively using its fat storage, which is why modern-day high-carb and low-fiber (processed carbs, sugar) foods cause so many overweight people.
