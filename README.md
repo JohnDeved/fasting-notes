@@ -18,12 +18,12 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
 - [☑︎](https://www.dietdoctor.com/low-carb/ketosis#:~:text=Ketosis%20is%20a%20metabolic%20state%20in%20which%20your%20body%20uses%20fat%20and%20ketones%20rather%20than%20glucose%20(sugar)%20as%20its%20main%20fuel%20source.) In ketosis, Fat becomes the body's primary energy source.
   - Fat is a "better" source of energy for the brain than glucose, which makes you more focused, able, and smarter.
 - [☑︎](https://www.dietdoctor.com/low-carb/ketosis#:~:text=Established%20benefits%3A-,Appetite%20regulation,-%3A%20One%20of) Fasting-induced Ketosis reduces ghrelin (appetite hormone), making you feel less hungry.
-- Fasting positively affects the growth hormone
+- [☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=salt%20and%20water.-,Growth%20hormone,-Growth%20hormone%20is) Fasting positively affects the growth hormone
   - which is a hormone that stimulates growth, cell reproduction, and regeneration. 
   - the growth hormone also has anti-aging, anti-obesity, and muscle-sparing effects.
   - Fasting can increase growth hormone levels by up to 5-fold in men and 13-fold in women.
-- [☑︎](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990470/)[☑︎](https://casereports.bmj.com/content/casereports/2018/bcr-2017-221854.full.pdf) Fasting is a good way to heal and prevent diabetic type 2.
-  - ☑︎ Fasting can improve glucose control, insulin sensitivity, and beta-cell function in people with type 2 diabetes.
+- [☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=Hormonal%20Adaptation-,Insulin,-Fasting%20is%20the)[☑︎](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990470/)[☑︎](https://casereports.bmj.com/content/casereports/2018/bcr-2017-221854.full.pdf) Fasting is a good way to heal and prevent diabetic type 2.
+  - [☑︎](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8653959/) Fasting can improve glucose control, insulin sensitivity, and beta-cell function in people with type 2 diabetes.
   - [☑︎ Dr. Bret Scher (MD) writes](https://www.dietdoctor.com/intermittent-fasting-the-best-diet-for-type-2-diabetes): [...] Intermittent fasting combined with a low carb diet may be the best treatment of type 2 diabetes that we have ever seen.
 - Fasting positively affects the long-term immune system.
   - Fasting can modulate the immune system in various ways, such as reducing inflammation, enhancing autophagy, stimulating stem cell regeneration, and altering gut microbiota.
@@ -56,7 +56,8 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
   - a light meal that is easy to digest and does not cause a sudden spike in blood sugar or insulin levels.
 
 ## clearing up common missunderstandings
-- "starvation mode" is a myth and fasting does not trigger it or anything like it.
+- [☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=described%20in%20fasting.-,Noradrenaline,-Noradrenaline%20levels%20are) "starvation mode" is a myth and fasting does not trigger it or anything like it.
+  -  [☑︎ Dr. Jason Fung (MD) writes](https://www.dietdoctor.com/fasting-affects-physiology-hormones): [...] 48 hours of fasting produces a [3.6% increase in metabolic rate](https://www.ncbi.nlm.nih.gov/pubmed/14066725), not the dreaded metabolic ‘shut-down’. [...] Resting metabolism is NOT decreased but instead increased.
 - "yo-yo effect" is a misunderstanding of destroying your metabolism with some bad "traditional" weight loss methods.
 - no, you are not "starving" yourself while fasting, under the right conditions the body is very capable of using the resources it has available.
    - there is a reason the body stores excessive available energy as fat in the first place, ketosis, and fasting enables you to use it.
