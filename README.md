@@ -2,15 +2,17 @@
 to keep my mind fresh with my research
 
 things I remember from researching some time ago about fasting and keto that I need to research and fact-check again.
-I will edit and mark every line with [☑︎](https://www.reddit.com/r/fasting/wiki/fasting_in_a_nutshell/) and linking to the resource I fact-checked it with.
+I will edit and mark every line with ☑︎ and linking to the resource I fact-checked it with.
 
 ## weight (fat) loss
 - Short-term fasting on ketosis (5 days or so) is a good and healthy way to lose fat.
   - fasting can make you lose 500g of fat a day.
 - many "traditional" weight loss methods are way harder and can cause your metabolism to suffer (the biggest-loser effect).
   - Short-term fasting does not seem to cause a significant metabolic slowdown or muscle loss compared to continuous calorie restriction.
-- Fasting-induced ketosis makes you lose almost only fat. (losing less muscle or bone mass.)
-  - Fasting preserves lean body mass by stimulating growth hormone and reducing protein breakdown.
+- [☑︎](https://blog.thefastingmethod.com/fasting-and-muscle-mass-fasting-part-14/) Fasting-induced ketosis makes you lose almost only fat. (losing less muscle or bone mass.)
+  - [☑︎](https://blog.thefastingmethod.com/fasting-and-muscle-mass-fasting-part-14/) Fasting preserves lean body mass by stimulating growth hormone and reducing protein breakdown.
+  - [☑︎ Dr. Jason Fung, MD](https://www.dietdoctor.com/fasting-affects-physiology-hormones) writes: Long term studies Proof [...] the fasting strategy is more than 4 times better at preserving lean mass percentage compared to caloric restriction.
+  - Video by Dr. Jason Fung "[Does Fasting Destroy Your Muscle?](https://www.youtube.com/watch?v=teQIaU6wp2o)"
   
 ## Positive side effects
 - [☑︎](https://www.dietdoctor.com/low-carb/ketosis#:~:text=Ketosis%20is%20a%20metabolic%20state%20in%20which%20your%20body%20uses%20fat%20and%20ketones%20rather%20than%20glucose%20(sugar)%20as%20its%20main%20fuel%20source.) In ketosis, Fat becomes the body's primary energy source.
@@ -22,7 +24,7 @@ I will edit and mark every line with [☑︎](https://www.reddit.com/r/fasting/w
   - Fasting can increase growth hormone levels by up to 5-fold in men and 13-fold in women.
 - [☑︎](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990470/)[☑︎](https://casereports.bmj.com/content/casereports/2018/bcr-2017-221854.full.pdf) Fasting is a good way to heal and prevent diabetic type 2.
   - ☑︎ Fasting can improve glucose control, insulin sensitivity, and beta-cell function in people with type 2 diabetes.
-  - [☑︎ Dr. (MD) Bret Scher writes:](https://www.dietdoctor.com/intermittent-fasting-the-best-diet-for-type-2-diabetes) [...] intermittent fasting combined with a low carb diet may be the best treatment of type 2 diabetes that we have ever seen.
+  - [☑︎ Dr. Bret Scher, MD](https://www.dietdoctor.com/intermittent-fasting-the-best-diet-for-type-2-diabetes): [...] Intermittent fasting combined with a low carb diet may be the best treatment of type 2 diabetes that we have ever seen.
 - Fasting positively affects the long-term immune system.
   - Fasting can modulate the immune system in various ways, such as reducing inflammation, enhancing autophagy, stimulating stem cell regeneration, and altering gut microbiota.
   - These effects can potentially improve the immune response to infections, allergies, autoimmune diseases, and cancer 
