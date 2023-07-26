@@ -23,6 +23,7 @@ I will edit and mark every line with ☑︎ and link to the resource I fact-chec
 - [☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=salt%20and%20water.-,Growth%20hormone,-Growth%20hormone%20is) Fasting positively affects the growth hormone
   - which is a hormone that stimulates growth, cell reproduction, and regeneration. 
   - the growth hormone also has anti-aging, anti-obesity, and muscle-sparing effects.
+  - improves sleep quality and improves cognitive abilities such as memory and focus.
   - [☑︎](https://blog.thefastingmethod.com/fasting-and-growth-hormone/#:~:text=During%20fasting%2C%20there%20is%20the%20spike%20in%20the%20early%20morning%2C%20but%20there%20is%20regular%20secretion%20throughout%20the%20day%20as%20well.%C2%A0Hartman%20et%20al%C2%A0also%20showed%20a%205%2Dfold%20increase%20in%20HGH%20in%20response%20to%20a%202%20day%20fast.) Fasting can increase growth hormone levels by 5-fold. (studies even reported 12.5-fold after a 7 day fast)
   - Video by Dr. Eric Berg (DC) "[What Fasting Does to Growth Hormone](https://www.youtube.com/watch?v=ucPymf2kWOA)"
 - [☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=Hormonal%20Adaptation-,Insulin,-Fasting%20is%20the)[☑︎](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990470/)[☑︎](https://casereports.bmj.com/content/casereports/2018/bcr-2017-221854.full.pdf) Fasting is a good way to heal and prevent diabetic type 2.
