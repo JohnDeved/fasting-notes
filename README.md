@@ -13,7 +13,7 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
 - [☑︎](https://blog.thefastingmethod.com/fasting-and-muscle-mass-fasting-part-14/) Fasting-induced ketosis makes you lose almost only fat. (losing less muscle or bone mass.)
   - [☑︎](https://blog.thefastingmethod.com/fasting-and-muscle-mass-fasting-part-14/) Fasting preserves lean body mass by stimulating growth hormone and reducing protein breakdown.
   - [☑︎ Dr. Jason Fung (MD) writes](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=Long%20term%20studies%20of%20intermittent%20fasting%20prove%20that%20the%20fasting%20strategy%20is%20more%20than%204%20times%20better%20at%20preserving%20lean%20mass%20percentage%20compared%20to%20caloric%20restriction.): Long term [studies of intermittent fasting](https://www.ncbi.nlm.nih.gov/pubmed/27569118) prove that the fasting strategy is more than 4 times better at preserving lean mass percentage compared to caloric restriction.
-  - Video by Dr. Jason Fung "[Does Fasting Destroy Your Muscle?](https://www.youtube.com/watch?v=teQIaU6wp2o)"
+  - Video by Dr. Jason Fung (MD) "[Does Fasting Destroy Your Muscle?](https://www.youtube.com/watch?v=teQIaU6wp2o)"
   
 ## Positive side effects
 - [☑︎](https://www.dietdoctor.com/low-carb/ketosis#:~:text=Ketosis%20is%20a%20metabolic%20state%20in%20which%20your%20body%20uses%20fat%20and%20ketones%20rather%20than%20glucose%20(sugar)%20as%20its%20main%20fuel%20source.) In ketosis, Fat becomes the body's primary energy source.
@@ -23,7 +23,8 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
 - [☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=salt%20and%20water.-,Growth%20hormone,-Growth%20hormone%20is) Fasting positively affects the growth hormone
   - which is a hormone that stimulates growth, cell reproduction, and regeneration. 
   - the growth hormone also has anti-aging, anti-obesity, and muscle-sparing effects.
-  - Fasting can increase growth hormone levels by up to 5-fold in men and 13-fold in women.
+  - [☑︎](https://blog.thefastingmethod.com/fasting-and-growth-hormone/#:~:text=During%20fasting%2C%20there%20is%20the%20spike%20in%20the%20early%20morning%2C%20but%20there%20is%20regular%20secretion%20throughout%20the%20day%20as%20well.%C2%A0Hartman%20et%20al%C2%A0also%20showed%20a%205%2Dfold%20increase%20in%20HGH%20in%20response%20to%20a%202%20day%20fast.) Fasting can increase growth hormone levels by up to 5-fold.
+  - Video by Dr. Eric Berg (DC) "[What Fasting Does to Growth Hormone](https://www.youtube.com/watch?v=ucPymf2kWOA)"
 - [☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=Hormonal%20Adaptation-,Insulin,-Fasting%20is%20the)[☑︎](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990470/)[☑︎](https://casereports.bmj.com/content/casereports/2018/bcr-2017-221854.full.pdf) Fasting is a good way to heal and prevent diabetic type 2.
   - [☑︎](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8653959/) Fasting can improve glucose control, insulin sensitivity, and beta-cell function in people with type 2 diabetes.
   - [☑︎ Dr. Bret Scher (MD) writes](https://www.dietdoctor.com/intermittent-fasting-the-best-diet-for-type-2-diabetes#:~:text=intermittent%20fasting%20combined%20with%20a%20low%20carb%20diet%20may%20be%20the%20best%20treatment%20of%20type%202%20diabetes%20that%20we%20have%20ever%20seen.): [...] intermittent fasting combined with a low carb diet may be the best treatment of type 2 diabetes that we have ever seen.
