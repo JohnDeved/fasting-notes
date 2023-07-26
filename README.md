@@ -47,6 +47,8 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
   - you should listen to your body. dry lips for example are a typical sign of dehydration.
 - Video "[What happens if you Don't Eat for 44 Days?](https://www.youtube.com/watch?v=pfgM6nfWU-I)"
 - Video "[I Fasted for 5 Days and Walked 7 hours a Day](https://www.youtube.com/watch?v=OcvTfIH-TTQ)"
+- Motivational: Reddit describes a "Woosch" effect.
+  - The name we give to a very common occurrence where you are eating right and doing everything you are supposed to do but no weight loss happens for several days and then all of a sudden, you lose 3-5 lbs. in a single night.
 
 ## some potential dangers
 - keto-flu can be a problem for beginners. What causes it and how to prevent it?
@@ -80,9 +82,10 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
   - Video "[Science of Weight Gain](https://www.youtube.com/watch?v=zcMBm-UVdII)"
   - Video "[What made the Ancient Egyptians Fat and Sick?](https://www.youtube.com/watch?v=YGq_EbYEaSY)"
 - Myths: "Eating fat causes hearth disease" & "Eating fat makes you fat".
-  - Video Part "[does Keto increases risk of Heath diseases?](https://youtu.be/xlfZvnV4v50?t=673)"
+  - Video Part "[does Keto increases risk of Hearth diseases?](https://youtu.be/xlfZvnV4v50?t=673)"
   - Video "[What about Cholesterol?](https://www.youtube.com/watch?v=b7zWNabebxs)"
   - Video "[Low-Fat Foods Are Making You Fatter](https://www.youtube.com/watch?v=oLtQLDptI1g)"
+  - Video "[Why we were Wrong about Health](https://www.youtube.com/watch?v=5S6-v37nOtY)"
 
 ## some resources
 - MD peer-reviewed articles about Fasting and Keto https://www.dietdoctor.com/
