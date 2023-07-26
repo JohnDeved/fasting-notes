@@ -82,7 +82,7 @@ I will edit and mark every line with ☑︎ and link to the resource I fact-chec
   - Video "[Why we get Fat AND Hungry](https://www.youtube.com/watch?v=KHaCKudtVi0)"
   - Video "[Science of Weight Gain](https://www.youtube.com/watch?v=zcMBm-UVdII)"
   - Video "[What made the Ancient Egyptians Fat and Sick?](https://www.youtube.com/watch?v=YGq_EbYEaSY)"
-- Myths: "Eating fat causes heart disease" & "Eating fat makes you fat".
+- Myth "Eating fat causes heart disease"
   - Video Part "[does Keto increases risk of heart diseases?](https://youtu.be/xlfZvnV4v50?t=673)"
   - Video "[What about Cholesterol?](https://www.youtube.com/watch?v=b7zWNabebxs)"
 - Myth "Eating fat makes you fat".
