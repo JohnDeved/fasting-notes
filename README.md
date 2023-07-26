@@ -29,6 +29,8 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
   - [☑︎ Dr. Bret Scher (MD) writes](https://www.dietdoctor.com/intermittent-fasting-the-best-diet-for-type-2-diabetes#:~:text=intermittent%20fasting%20combined%20with%20a%20low%20carb%20diet%20may%20be%20the%20best%20treatment%20of%20type%202%20diabetes%20that%20we%20have%20ever%20seen.): [...] intermittent fasting combined with a low carb diet may be the best treatment of type 2 diabetes that we have ever seen.
   - Video "[Does Fat cause Type 2 Diabetes?](https://youtu.be/hpOP_HKeazU)"
   - Video "[Obesity & Diabetes Explained](https://www.youtube.com/watch?v=xlfZvnV4v50)"
+- [☑︎](https://psychcentral.com/depression/fasting-and-depression) Fasting can help cure depression
+  - Video by Dr. Eric Berg (DC) "[Could fasting be the new antidepressant?](https://www.youtube.com/watch?v=1zH5dbzGm4Y)"
 - Fasting positively affects the long-term immune system.
   - Fasting can modulate the immune system in various ways, such as reducing inflammation, enhancing autophagy, stimulating stem cell regeneration, and altering gut microbiota.
   - These effects can potentially improve the immune response to infections, allergies, autoimmune diseases, and cancer 
