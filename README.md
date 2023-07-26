@@ -31,9 +31,6 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
   - Video "[Obesity & Diabetes Explained](https://www.youtube.com/watch?v=xlfZvnV4v50)"
 - [☑︎](https://psychcentral.com/depression/fasting-and-depression) Fasting can help cure depression
   - Video by Dr. Eric Berg (DC) "[Could fasting be the new antidepressant?](https://www.youtube.com/watch?v=1zH5dbzGm4Y)"
-- Fasting positively affects the long-term immune system.
-  - Fasting can modulate the immune system in various ways, such as reducing inflammation, enhancing autophagy, stimulating stem cell regeneration, and altering gut microbiota.
-  - These effects can potentially improve the immune response to infections, allergies, autoimmune diseases, and cancer 
 - [☑︎](https://josepheverettwil.substack.com/p/how-fasting-changes-testosterone) Fasting positively affects the testosterone hormone in men (after the fast).
 - [☑︎](https://www.dietdoctor.com/renew-body-fasting-autophagy#:~:text=What%20activates%20autophagy,activator%20of%20autophagy.) Autophagy is activated by fasting.
   - Autophagy can be described as a kind of "maintenance" mode,  "cleaning" the system.
