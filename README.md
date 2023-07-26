@@ -2,12 +2,12 @@
 to keep my mind fresh with my research
 
 things I remember from researching some time ago about fasting and keto that I need to research and fact-check again.
-I will edit and mark every line with ☑︎ and linking to the resource I fact-checked it with.
+I will edit and mark every line with ☑︎ and link to the resource I fact-checked it with.
 
-## weight (fat) loss
+## Weight (fat) loss
 - [☑︎](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8369953/) Short-term fasting on ketosis (5 days or so) is a safe way to lose fat.
   - [☑︎](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8369953/#:~:text=BF%20%5Bkg%5D,p%3C0.001) fasting can make you lose around 500g of fat a day.
-- [☑︎](https://www.dietdoctor.com/biggest-loser-fail-ketogenic-weight-loss-study-success) many "traditional" weight loss methods are way harder and can cause your metabolism to suffer (the biggest-loser effect).
+- [☑︎](https://www.dietdoctor.com/biggest-loser-fail-ketogenic-weight-loss-study-success) Many "traditional" weight loss methods are way harder and can cause your metabolism to suffer (the biggest-loser effect).
   - [☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=described%20in%20fasting.-,Noradrenaline,-Noradrenaline%20levels%20are) Fasting does not seem to cause a significant metabolic slowdown or muscle loss compared to continuous calorie restriction.
   - Video "[Why are we still Counting Calories?](https://youtu.be/VyNgvMYb7iQ)"
 - [☑︎](https://blog.thefastingmethod.com/fasting-and-muscle-mass-fasting-part-14/) Fasting-induced ketosis makes you lose almost only fat. (losing less muscle or bone mass.)
@@ -36,13 +36,13 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
   - Autophagy can be described as a kind of "maintenance" mode,  "cleaning" the system.
     - [☑︎](https://www.dietdoctor.com/renew-body-fasting-autophagy#:~:text=Autophagy%20%E2%80%93%20replacing%20old,to%20degrade%20proteins.) Autophagy is a cellular process that involves the degradation and recycling of damaged or unnecessary components, such as proteins, organelles, and pathogens.
   - [☑︎](https://www.dietdoctor.com/renew-body-fasting-autophagy#:~:text=The%20consequences%20of,development%20of%20AD.)[☑︎](https://pubmed.ncbi.nlm.nih.gov/34352037)[☑︎](https://www.frontiersin.org/articles/10.3389/fphar.2022.832750/full)[☑︎](https://pubmed.ncbi.nlm.nih.gov/34352037)[☑︎](https://www.frontiersin.org/articles/10.3389/fcell.2019.00143/full) Autophagy can protect against [aging](https://www.frontiersin.org/articles/10.3389/fcell.2019.00143/full), [inflammation](https://www.frontiersin.org/articles/10.3389/fphar.2022.832750/full#:~:text=Autophagy%20is%20known%20to%20regulate,accordingly%2C%20inflammatory%20cytokines%20and%20inflammasome), [infection](https://pubmed.ncbi.nlm.nih.gov/34352037/#:~:text=Fasting%20dramatically%20interrupted%20infection%20and,proceeded%20in%20fasting%20gnotobiotic%20mice.), [cancer](https://www.dietdoctor.com/renew-body-fasting-autophagy#:~:text=The%20consequences%20of,development%20of%20AD.) and [neurodegeneration](https://www.dietdoctor.com/renew-body-fasting-autophagy#:~:text=The%20consequences%20of,development%20of%20AD.) 
-    - **inflammation** also seems to be the root cause of depression according to [this video](https://www.youtube.com/watch?v=2X4qySqsYP8)
+    - **Inflammation** also seems to be the root cause of depression according to [this video](https://www.youtube.com/watch?v=2X4qySqsYP8)
   - [☑︎](https://www.wefast.care/articles/fasting-loose-skin#:~:text=Autophagy%20and%20loose%20skin) Autophagy can help mitigate loose skin from forming and may even improve existing loose skin.
     - [Video on Autophagy and Loose Skin](https://www.youtube.com/watch?v=xvxo77kSsjM)
 
 ## general notes
 - ketogenic eating to reach higher levels of ketosis before you start water fasting is a great and healthy way to mitigate most bad side effects you encounter in the first few days of fasting.
-- starting a fast without being in ketosis is harder and bad for the body, since you have to suffer though low blood suggars for the first few days. (more muscle than fat loss, low energy, bad feeling)
+- starting a fast without being in ketosis is harder and bad for the body since you have to suffer through low blood sugars for the first few days. (more muscle than fat loss, low energy, bad feeling)
 - you should drink plenty of water while fasting, 40% of all water the body consumes usually comes from food. So it can be easier to not drink enough and dehydrate when you fast since you need to drink more water than usual.
   - you should listen to your body. dry lips for example are a typical sign of dehydration.
 - Video "[What happens if you Don't Eat for 44 Days?](https://www.youtube.com/watch?v=pfgM6nfWU-I)"
@@ -50,20 +50,20 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
 - Motivational: Reddit describes a "Woosch" effect.
   - The name we give to a very common occurrence where you are eating right and doing everything you are supposed to do but no weight loss happens for several days and then all of a sudden, you lose 3-5 lbs. in a single night.
 
-## some potential dangers
+## Some potential dangers
 - keto-flu can be a problem for beginners. What causes it and how to prevent it?
   - Listen to your body. If you ever get hungry or feel sick/bad during a fast, you should abort.
 - you should always keep your minerals in check. Using the right amount of supplements in the right way is an important thing to keep in mind.
   - there are 3 important minerals: sodium, magnesium, and potassium (in German kalium).
   - Some minerals are fat-soluble, which means they need fat to be absorbed by the body. These minerals include vitamins A, D, E, and K.
   - However, Sodium, magnesium, and potassium are water-soluble minerals, which means they do not need fat to be absorbed by the body.
-- [☑︎](https://www.youtube.com/watch?v=g8IGRyTdrOs) you need to balance fasting with refeeding and nourishing your body. Just like you can overtrain with exercise, you can over-fast.
+- [☑︎](https://www.youtube.com/watch?v=g8IGRyTdrOs) You need to balance fasting with refeeding and nourishing your body. Just like you can overtrain with exercise, you can over-fast.
   - the most healthy way to do a fast for losing weight is doing a few days of fasting followed by short breaks. This allows your body to rest and does not ever put you at risk of mineral depletion or refeeding syndrome.
 - [☑︎](https://youtu.be/k1OMGDnGpIk?t=640) ending your fast healthy is important. after longer times of fasting, the refeeding syndrome can even be deadly.
   - [☑︎](https://youtu.be/k1OMGDnGpIk?t=677) You should end every fast with a light low-fat meal without carbs.
   - a light meal that is easy to digest and does not cause a sudden spike in blood sugar or insulin levels.
 
-## clearing up common missunderstandings
+## Clearing up common misunderstandings
 - Video "[Is Ketosis Dangerous?](https://www.youtube.com/watch?v=Dan8qtgQRi8)"
 - [☑︎](https://www.dietdoctor.com/biggest-loser-fail-ketogenic-weight-loss-study-success#:~:text=This%20is%20what%20is%20sometimes%20termed%20%E2%80%98starvation%20mode%E2%80%99.%20This%20is%20what%20people%20imagine%20happens%20as%20their%20body%20starts%20to%20shut%20down%20in%20order%20to%20conserve%20energy.%20Basal%20metabolism%20(Calories%20Out)%20falls%20and%20you%20feel%20like%20crap.)[☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=described%20in%20fasting.-,Noradrenaline,-Noradrenaline%20levels%20are) "starvation mode" is a myth, fasting does not trigger it or anything like it.
   -  [☑︎ Dr. Jason Fung (MD) writes](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=48%20hours%20of,but%20instead%20increased.): [...] 48 hours of fasting produces a [3.6% increase in metabolic rate](https://www.ncbi.nlm.nih.gov/pubmed/14066725), not the dreaded metabolic ‘shut-down’. [...] Resting metabolism is NOT decreased but instead increased.
@@ -81,13 +81,13 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
   - Video "[Why we get Fat AND Hungry](https://www.youtube.com/watch?v=KHaCKudtVi0)"
   - Video "[Science of Weight Gain](https://www.youtube.com/watch?v=zcMBm-UVdII)"
   - Video "[What made the Ancient Egyptians Fat and Sick?](https://www.youtube.com/watch?v=YGq_EbYEaSY)"
-- Myths: "Eating fat causes hearth disease" & "Eating fat makes you fat".
-  - Video Part "[does Keto increases risk of Hearth diseases?](https://youtu.be/xlfZvnV4v50?t=673)"
+- Myths: "Eating fat causes heart disease" & "Eating fat makes you fat".
+  - Video Part "[does Keto increases risk of heart diseases?](https://youtu.be/xlfZvnV4v50?t=673)"
   - Video "[What about Cholesterol?](https://www.youtube.com/watch?v=b7zWNabebxs)"
   - Video "[Low-Fat Foods Are Making You Fatter](https://www.youtube.com/watch?v=oLtQLDptI1g)"
   - Video "[Why we were Wrong about Health](https://www.youtube.com/watch?v=5S6-v37nOtY)"
 
-## some resources
+## Some resources
 - MD peer-reviewed articles about Fasting and Keto https://www.dietdoctor.com/
 - https://www.youtube.com/@WhatIveLearned
 - https://www.reddit.com/r/fasting
