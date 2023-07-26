@@ -45,6 +45,8 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
 - starting a fast without being in ketosis is harder and bad for the body, since you have to suffer though low blood suggars for the first few days. (more muscle than fat loss, low energy, bad feeling)
 - you should drink plenty of water while fasting, 40% of all water the body consumes usually comes from food. So it can be easier to not drink enough and dehydrate when you fast since you need to drink more water than usual.
   - you should listen to your body. dry lips for example are a typical sign of dehydration.
+- Video "[What happens if you Don't Eat for 44 Days?](https://www.youtube.com/watch?v=pfgM6nfWU-I)"
+- Video "[I Fasted for 5 Days and Walked 7 hours a Day](https://www.youtube.com/watch?v=OcvTfIH-TTQ)"
 
 ## some potential dangers
 - keto-flu can be a problem for beginners. What causes it and how to prevent it?
