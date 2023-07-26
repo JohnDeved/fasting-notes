@@ -78,7 +78,7 @@ I will edit and mark every line with ☑︎ and linking to the resource I fact-c
   - Video "[Science of Weight Gain](https://www.youtube.com/watch?v=zcMBm-UVdII)"
   - Video "[What made the Ancient Egyptians Fat and Sick?](https://www.youtube.com/watch?v=YGq_EbYEaSY)"
 - Myths: "Eating fat causes hearth disease" & "Eating fat makes you fat".
-  - Video Part "[does Keto increases risk of Heath diseases?](https://www.youtube.com/watch?v=xlfZvnV4v50)"
+  - Video Part "[does Keto increases risk of Heath diseases?](https://youtu.be/xlfZvnV4v50?t=673)"
   - Video "[What about Cholesterol?](https://www.youtube.com/watch?v=b7zWNabebxs)"
   - Video "[Low-Fat Foods Are Making You Fatter](https://www.youtube.com/watch?v=oLtQLDptI1g)"
 
