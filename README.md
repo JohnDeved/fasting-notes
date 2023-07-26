@@ -5,8 +5,8 @@ things I remember from researching some time ago about fasting and keto that I n
 I will edit and mark every line with ☑︎ and linking to the resource I fact-checked it with.
 
 ## weight (fat) loss
-- Short-term fasting on ketosis (5 days or so) is a good and healthy way to lose fat.
-  - fasting can make you lose 500g of fat a day.
+- [☑︎](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8369953/) Short-term fasting on ketosis (5 days or so) is a safe way to lose fat.
+  - [☑︎](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8369953/#:~:text=BF%20%5Bkg%5D,p%3C0.001) fasting can make you lose around 500g of fat a day.
 - [☑︎](https://www.dietdoctor.com/biggest-loser-fail-ketogenic-weight-loss-study-success) many "traditional" weight loss methods are way harder and can cause your metabolism to suffer (the biggest-loser effect).
   - [☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=described%20in%20fasting.-,Noradrenaline,-Noradrenaline%20levels%20are) Fasting does not seem to cause a significant metabolic slowdown or muscle loss compared to continuous calorie restriction.
   - Video "[Why are we still Counting Calories?](https://youtu.be/VyNgvMYb7iQ)"
