@@ -49,8 +49,6 @@ I will edit and mark every line with ☑︎ and link to the resource I fact-chec
   - you should listen to your body. dry lips for example are a typical sign of dehydration.
 - Video "[What happens if you Don't Eat for 44 Days?](https://www.youtube.com/watch?v=pfgM6nfWU-I)"
 - Video "[I Fasted for 5 Days and Walked 7 hours a Day](https://www.youtube.com/watch?v=OcvTfIH-TTQ)"
-- Motivational: Reddit describes a "Woosch" effect.
-  - The name we give to a very common occurrence where you are eating right and doing everything you are supposed to do but no weight loss happens for several days and then all of a sudden, you lose 3-5 lbs. in a single night.
 
 ## Some potential dangers
 - keto-flu can be a problem for beginners. What causes it and how to prevent it?
@@ -90,6 +88,11 @@ I will edit and mark every line with ☑︎ and link to the resource I fact-chec
   - Video "[Low-Fat Foods Are Making You Fatter](https://www.youtube.com/watch?v=oLtQLDptI1g)"
   - Video "[Why we were Wrong about Health](https://www.youtube.com/watch?v=5S6-v37nOtY)"
   - Video "[Fat Fiction - Full Movie](https://www.youtube.com/watch?v=TUADs-CK7vI)"
+
+## Motivationals
+- Reddit describes a "Woosch" effect.
+  - The name we give to a very common occurrence where you are eating right and doing everything you are supposed to do but no weight loss happens for several days and then all of a sudden, you lose 3-5 lbs. in a single night.
+- Video "[Willpower is for Losers](https://www.youtube.com/watch?v=k2Wcu6aGyz8)"
 
 ## Some resources
 - MD peer-reviewed articles about Fasting and Keto https://www.dietdoctor.com/
