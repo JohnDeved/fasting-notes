@@ -11,8 +11,8 @@ I will edit and mark every line with ☑︎ and link to the resource I fact-chec
   - [☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=described%20in%20fasting.-,Noradrenaline,-Noradrenaline%20levels%20are) Fasting does not seem to cause a significant metabolic slowdown or muscle loss compared to continuous calorie restriction.
   - Video "[Why are we still Counting Calories?](https://youtu.be/VyNgvMYb7iQ)"
 - [☑︎](https://blog.thefastingmethod.com/fasting-and-muscle-mass-fasting-part-14/) Fasting-induced ketosis makes you lose almost only fat. (losing less muscle or bone mass.)
-  - [☑︎](https://blog.thefastingmethod.com/fasting-and-muscle-mass-fasting-part-14/) Fasting preserves lean body mass by stimulating growth hormone and reducing protein breakdown.
-  - [☑︎ Dr. Jason Fung (MD) writes](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=Long%20term%20studies%20of%20intermittent%20fasting%20prove%20that%20the%20fasting%20strategy%20is%20more%20than%204%20times%20better%20at%20preserving%20lean%20mass%20percentage%20compared%20to%20caloric%20restriction.): Long term [studies of intermittent fasting](https://www.ncbi.nlm.nih.gov/pubmed/27569118) prove that the fasting strategy is more than 4 times better at preserving lean mass percentage compared to caloric restriction.
+  - [☑︎](https://blog.thefastingmethod.com/fasting-and-muscle-mass-fasting-part-14/) Fasting preserves lean body mass by stimulating growth hormones and reducing protein breakdown.
+  - [☑︎ Dr. Jason Fung (MD) writes](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=Long%20term%20studies%20of%20intermittent%20fasting%20prove%20that%20the%20fasting%20strategy%20is%20more%20than%204%20times%20better%20at%20preserving%20lean%20mass%20percentage%20compared%20to%20caloric%20restriction.): Long-term [studies of intermittent fasting](https://www.ncbi.nlm.nih.gov/pubmed/27569118) prove that the fasting strategy is more than 4 times better at preserving lean mass percentage compared to caloric restriction.
   - Video by Dr. Jason Fung (MD) "[Does Fasting Destroy Your Muscle?](https://www.youtube.com/watch?v=teQIaU6wp2o)"
   
 ## Positive side effects
@@ -45,6 +45,8 @@ I will edit and mark every line with ☑︎ and link to the resource I fact-chec
 ## general notes
 - ketogenic eating to reach higher levels of ketosis before you start water fasting is a great and healthy way to mitigate most bad side effects you encounter in the first few days of fasting.
 - starting a fast without being in ketosis is harder and bad for the body since you have to suffer through low blood sugars for the first few days. (more muscle than fat loss, low energy, bad feeling)
+- Net Carbs
+  - Fibers are a form of non-digestible carbs. That is why they usually count towards "carbohydrates" on the nutrition label. But obviously these are not the carbs we care about when trying to eat low-carb/keto. so if you want to know what amount of carbs a product you are eating actually has, you have to subtract the amount of fiber from the total amount of carbs listed on the nutrition label. This is what people refer to as "Net Carbs"
 - you should drink plenty of water while fasting, 40% of all water the body consumes usually comes from food. So it can be easier to not drink enough and dehydrate when you fast since you need to drink more water than usual.
   - you should listen to your body. dry lips for example are a typical sign of dehydration.
 - Video "[What happens if you Don't Eat for 44 Days?](https://www.youtube.com/watch?v=pfgM6nfWU-I)"
@@ -65,7 +67,7 @@ I will edit and mark every line with ☑︎ and link to the resource I fact-chec
 
 ## Clearing up common misunderstandings
 - Video "[Is Ketosis Dangerous?](https://www.youtube.com/watch?v=Dan8qtgQRi8)"
-- [☑︎](https://www.dietdoctor.com/biggest-loser-fail-ketogenic-weight-loss-study-success#:~:text=This%20is%20what%20is%20sometimes%20termed%20%E2%80%98starvation%20mode%E2%80%99.%20This%20is%20what%20people%20imagine%20happens%20as%20their%20body%20starts%20to%20shut%20down%20in%20order%20to%20conserve%20energy.%20Basal%20metabolism%20(Calories%20Out)%20falls%20and%20you%20feel%20like%20crap.)[☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=described%20in%20fasting.-,Noradrenaline,-Noradrenaline%20levels%20are) "starvation mode" is a myth, fasting does not trigger it or anything like it.
+- [☑︎](https://www.dietdoctor.com/biggest-loser-fail-ketogenic-weight-loss-study-success#:~:text=This%20is%20what%20is%20sometimes%20termed%20%E2%80%98starvation%20mode%E2%80%99.%20This%20is%20what%20people%20imagine%20happens%20as%20their%20body%20starts%20to%20shut%20down%20in%20order%20to%20conserve%20energy.%20Basal%20metabolism%20(Calories%20Out)%20falls%20and%20you%20feel%20like%20crap.)[☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=described%20in%20fasting.-,Noradrenaline,-Noradrenaline%20levels%20are) "Starvation mode" is a myth, fasting does not trigger it or anything like it.
   -  [☑︎ Dr. Jason Fung (MD) writes](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=48%20hours%20of,but%20instead%20increased.): [...] 48 hours of fasting produces a [3.6% increase in metabolic rate](https://www.ncbi.nlm.nih.gov/pubmed/14066725), not the dreaded metabolic ‘shut-down’. [...] Resting metabolism is NOT decreased but instead increased.
       - [☑︎](https://www.dietdoctor.com/biggest-loser-fail-ketogenic-weight-loss-study-success#:~:text=That%20reducing%20calories,came%20right%20back.) the important difference to make is "Fasting is healthy, Restricting calories is not"
       - Video "[Fasting vs. Eating Less: What's the Difference?](https://www.youtube.com/watch?v=APZCfmgzoS0)"
@@ -74,11 +76,11 @@ I will edit and mark every line with ☑︎ and link to the resource I fact-chec
    - there is a reason the body stores excessive available energy as fat in the first place, ketosis, and fasting enables you to use it.
    - eating carbs somewhat "blocks" the body from effectively using its fat storage, which is why modern-day high-carb and low-fiber (processed carbs, sugar) foods cause so many overweight people.
    - this causes the dilemma of people being extremely overweight that are still hungry. which is not how the body is supposed to function.
-   - overweight people basically have an overflow of available energy that they can't use. Which in some ironic twisted way makes them have too much energy, but also constantly starve for more energy.
+   - overweight people have an overflow of available energy that they can't use. Which in some ironic twisted way makes them have too much energy, but also constantly starve for more energy.
   - why do carbs cause this? the body is not evolved to digest highly processed carbs like we consume today.
   - why does this not affect everyone? this is sadly highly dependent on your genetics. some people deal with processed carbs way better than others.
   - this makes it way harder for some people to maintain their weight.
-  - Video "[Why we get Fat AND Hungry](https://www.youtube.com/watch?v=KHaCKudtVi0)"
+  - Video "[Why We Get Fat AND Hungry](https://www.youtube.com/watch?v=KHaCKudtVi0)"
   - Video "[Science of Weight Gain](https://www.youtube.com/watch?v=zcMBm-UVdII)"
   - Video "[What made the Ancient Egyptians Fat and Sick?](https://www.youtube.com/watch?v=YGq_EbYEaSY)"
 - Myth "Eating fat causes heart disease"
@@ -89,10 +91,28 @@ I will edit and mark every line with ☑︎ and link to the resource I fact-chec
   - Video "[Why we were Wrong about Health](https://www.youtube.com/watch?v=5S6-v37nOtY)"
   - Video "[Fat Fiction - Full Movie](https://www.youtube.com/watch?v=TUADs-CK7vI)"
 
-## Motivationals
+## Motivation
 - Reddit describes a "Woosch" effect.
   - The name we give to a very common occurrence where you are eating right and doing everything you are supposed to do but no weight loss happens for several days and then all of a sudden, you lose 3-5 lbs. in a single night.
 - Video "[Willpower is for Losers](https://www.youtube.com/watch?v=k2Wcu6aGyz8)"
+
+## Experimental Research
+- Carb Blockers?
+  - In general, these are supplements that are supposed to make it harder for some bodys enzymes to break down carbs in digestion. Practically converting these to Fiber.
+  - Some spices like Cinnamon and Kurkuma make it harder for the body to digest carbs, practically making some amount of carbs you are eating non-digestible. Need to research what amount.
+    - related video [These 7 Foods Block Carb Absorption](https://www.youtube.com/watch?v=iqHVEfprr70)
+  - Video: [Do Carb Blockers Really Work?](https://www.youtube.com/watch?v=ceXS3Jhrmrw)
+    - says it works if you use them "as intended". He claims it only really works if you don't eat that many carbs. Only "blocks" small portions of carb consumption. He seemingly only cares about normal blood sugar levels because of diabetes, but not about ketosis. So it might be effective for his use case, but not for someone trying to eat some carbs but still stay in ketosis?
+    - the product he is referring to [video](https://www.youtube.com/watch?v=vWoDQqCiLyI)
+    - claims to have 3 parts: 
+      1. white kidney bean extract. supposed to inhibit the enzyme responsible for digesting starchy carbs. supposedly decreasing the number of starch-carbohydrate calories digested by the body.
+      2. Lipase and Protease additives. These enzymes are responsible for breaking down fats and proteins.
+      3. Chromium Picolinate and concentrated extract of Cinnamon. These are supposed to keep metabolism and blood sugar levels within a normal range.
+  - White Kidney Bean Extracts
+    - Video by Dr. Brian Yeung (ND) "[White Kidney Bean Extracts: A Natural Carb Blocker](https://www.youtube.com/watch?v=64kC-gxBEOY)"
+      - supposedly only would have any noticeable effect if you are eating high-carb meals, because only a smaller percentage of the total carbs can be blocked. Meaning if you already don't eat low carbs, the amount of carbs blocked might be negligible. This suggests that this sadly might not be a solution to "cheat a little" while on the ketogenic diet.
+  - Addition of soluble fiber to the diet can slow the absorption of refined carbs
+  - Video by Dr. Thomas W. Clark (MD): "[Carb Blockers- Pt 1](https://www.youtube.com/watch?v=N3J4gTJs61M)" "[Carb Blockers- Pt 2](https://www.youtube.com/watch?v=iZjxOdCauZU)"
 
 ## Some resources
 - MD peer-reviewed articles about Fasting and Keto https://www.dietdoctor.com/
