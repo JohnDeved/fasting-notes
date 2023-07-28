@@ -101,18 +101,14 @@ I will edit and mark every line with ☑︎ and link to the resource I fact-chec
   - In general, these are supplements that are supposed to make it harder for some bodys enzymes to break down carbs in digestion. Practically converting these to Fiber.
   - Some spices like Cinnamon and Kurkuma make it harder for the body to digest carbs, practically making some amount of carbs you are eating non-digestible. Need to research what amount.
     - related video [These 7 Foods Block Carb Absorption](https://www.youtube.com/watch?v=iqHVEfprr70)
-  - Video: [Do Carb Blockers Really Work?](https://www.youtube.com/watch?v=ceXS3Jhrmrw)
-    - says it works if you use them "as intended". He claims it only really works if you don't eat that many carbs. Only "blocks" small portions of carb consumption. He seemingly only cares about normal blood sugar levels because of diabetes, but not about ketosis. So it might be effective for his use case, but not for someone trying to eat some carbs but still stay in ketosis?
-    - the product he is referring to [video](https://www.youtube.com/watch?v=vWoDQqCiLyI)
-    - claims to have 3 parts: 
-      1. white kidney bean extract. supposed to inhibit the enzyme responsible for digesting starchy carbs. supposedly decreasing the number of starch-carbohydrate calories digested by the body.
-      2. Lipase and Protease additives. These enzymes are responsible for breaking down fats and proteins.
-      3. Chromium Picolinate and concentrated extract of Cinnamon. These are supposed to keep metabolism and blood sugar levels within a normal range.
   - White Kidney Bean Extracts
     - Video by Dr. Brian Yeung (ND) "[White Kidney Bean Extracts: A Natural Carb Blocker](https://www.youtube.com/watch?v=64kC-gxBEOY)"
       - supposedly only would have any noticeable effect if you are eating high-carb meals, because only a smaller percentage of the total carbs can be blocked. Meaning if you already don't eat low carbs, the amount of carbs blocked might be negligible. This suggests that this sadly might not be a solution to "cheat a little" while on the ketogenic diet.
-  - Addition of soluble fiber to the diet can slow the absorption of refined carbs
+  - The addition of soluble fiber to the diet can slow the absorption of refined carbs
   - Video by Dr. Thomas W. Clark (MD): "[Carb Blockers- Pt 1](https://www.youtube.com/watch?v=N3J4gTJs61M)" "[Carb Blockers- Pt 2](https://www.youtube.com/watch?v=iZjxOdCauZU)"
+  - Video by Dr. Ahmet Ergin (MD): "[Block The Side Effects Of Carbs](https://www.youtube.com/watch?v=S4S3R84rl_k)"
+    - says berberine is the most effective carb blocker. 
+  - **TLDR: Overall sadly non of these seem to be helpful in a ketogenic diet.**
 
 ## Some resources
 - MD peer-reviewed articles about Fasting and Keto https://www.dietdoctor.com/
