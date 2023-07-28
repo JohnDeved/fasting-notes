@@ -108,6 +108,10 @@ I will edit and mark every line with ☑︎ and link to the resource I fact-chec
   - Video by Dr. Thomas W. Clark (MD): "[Carb Blockers- Pt 1](https://www.youtube.com/watch?v=N3J4gTJs61M)" "[Carb Blockers- Pt 2](https://www.youtube.com/watch?v=iZjxOdCauZU)"
   - Video by Dr. Ahmet Ergin (MD): "[Block The Side Effects Of Carbs](https://www.youtube.com/watch?v=S4S3R84rl_k)"
     - says berberine is the most effective carb blocker. 
+  - interesting [reddit comment](https://www.reddit.com/r/keto/comments/aw0dwk/comment/ehj9sxt/?utm_source=reddit&utm_medium=web2x&context=3)
+    -  it has proven to keep me in ketosis on a few cheat days when I ought to have gone out by calculation. That, and that alone, is why I occasionally use carb blockers. Not a replacement for being strict.
+  - [☑︎](https://www.healthline.com/nutrition/carb-blockers-101#TOC_TITLE_HDR_4:~:text=How%20Effective%20Are,carb%2Ddigesting%20enzymes) At best, they appear to block 50–65% of carb-digesting enzymes. It’s important to note that inhibiting these enzymes does not necessarily mean the same proportion of carbs will be blocked.
+  - [☑︎](https://www.healthline.com/nutrition/carb-blockers-101#TOC_TITLE_HDR_4:~:text=One%20study%20examining%20a%20strong%20carb%20blocker%20found%20that%20even%20though%20it%20could%20inhibit%2097%25%20of%20the%20enzymes%2C%20it%20only%20prevented%207%25%20of%20the%20carbs%20from%20being%20absorbed) One study examining a strong carb blocker found that even though it could inhibit 97% of the enzymes, it only prevented 7% of the carbs from being absorbed. This may happen because carb blockers don’t directly prevent carbs from being absorbed. They may simply increase the amount of time it takes for the enzymes to digest them. On top of that, the complex carbs affected by carb blockers make up only part of the carbs in most people’s diets.
   - **TLDR: Overall sadly non of these seem to be helpful in a ketogenic diet.**
 
 ## Some resources
