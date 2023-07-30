@@ -95,6 +95,9 @@ I will edit and mark every line with ☑︎ and link to the resource I fact-chec
 - Reddit describes a "Woosch" effect.
   - The name we give to a very common occurrence where you are eating right and doing everything you are supposed to do but no weight loss happens for several days and then all of a sudden, you lose 3-5 lbs. in a single night.
 - Video "[Willpower is for Losers](https://www.youtube.com/watch?v=k2Wcu6aGyz8)"
+  - if you want to archive something and actually want manage to archive it, it should require as little willpower to do it as possible.
+  - you can put yourself in a situation where the things you want to do require way less willpower to archive.
+  - an applied example might be. only buy ketogenic groceries, that way you will not have to use constant willpower to NOT eat something with sugar or carbs at home. Because you will not have the option.
 
 ## Experimental Research
 - Carb Blockers?
