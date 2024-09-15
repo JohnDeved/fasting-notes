@@ -17,7 +17,7 @@ I will edit and mark every line with ☑︎ and link to the resource I fact-chec
   
 ## Positive side effects
 - [☑︎](https://www.dietdoctor.com/low-carb/ketosis#:~:text=Ketosis%20is%20a%20metabolic%20state%20in%20which%20your%20body%20uses%20fat%20and%20ketones%20rather%20than%20glucose%20(sugar)%20as%20its%20main%20fuel%20source.) In ketosis, Fat becomes the body's primary energy source.
-  - [☑︎](https://youtu.be/Dan8qtgQRi8?t=275)[☑︎](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8840718/#:~:text=Interestingly%2C%20the%20authors%20demonstrated%20improved%20performance%20in%20a%20working%20memory%20bi%2Dconditional%20association%20task%20that%20reflect%20prefrontal%20cortex%20(PFC)%20and%20hippocampal%20interaction) Fat is a "better" source of energy for the brain than glucose, which makes you more focused, able, and smarter.
+  - [☑︎](https://youtu.be/Dan8qtgQRi8?t=275)[☑︎](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8840718/#:~:text=Interestingly%2C%20the%20authors%20demonstrated%20improved%20performance%20in%20a%20working%20memory%20bi%2Dconditional%20association%20task%20that%20reflect%20prefrontal%20cortex%20(PFC)%20and%20hippocampal%20interaction) Fat is a good source of energy for the brain, which can even make you more focused.
 - [☑︎](https://www.dietdoctor.com/low-carb/ketosis#:~:text=Established%20benefits%3A-,Appetite%20regulation,-%3A%20One%20of) Fasting-induced Ketosis reduces ghrelin (appetite hormone), making you feel less hungry.
   - Video "[Intermittent Fasting & Hunger](https://www.youtube.com/watch?v=dFT2IKmwyfg)" 
 - [☑︎](https://www.dietdoctor.com/fasting-affects-physiology-hormones#:~:text=salt%20and%20water.-,Growth%20hormone,-Growth%20hormone%20is) Fasting positively affects the growth hormone
@@ -72,14 +72,7 @@ I will edit and mark every line with ☑︎ and link to the resource I fact-chec
       - [☑︎](https://www.dietdoctor.com/biggest-loser-fail-ketogenic-weight-loss-study-success#:~:text=That%20reducing%20calories,came%20right%20back.) the important difference to make is "Fasting is healthy, Restricting calories is not"
       - Video "[Fasting vs. Eating Less: What's the Difference?](https://www.youtube.com/watch?v=APZCfmgzoS0)"
 - [☑︎](https://www.dietdoctor.com/biggest-loser-fail-ketogenic-weight-loss-study-success) "yo-yo effect" is a misunderstanding of destroying your metabolism with some bad "traditional" weight loss methods.
-- no, you are not "starving" yourself while fasting, under the right conditions the body is very capable of using the resources it has available.
-   - there is a reason the body stores excessive available energy as fat in the first place, ketosis, and fasting enables you to use it.
-   - eating carbs somewhat "blocks" the body from effectively using its fat storage, which is why modern-day high-carb and low-fiber (processed carbs, sugar) foods cause so many overweight people.
-   - this causes the dilemma of people being extremely overweight that are still hungry. which is not how the body is supposed to function.
-   - overweight people have an overflow of available energy that they can't use. Which in some ironic twisted way makes them have too much energy, but also constantly starve for more energy.
-  - why do carbs cause this? the body is not evolved to digest highly processed carbs like we consume today.
-  - why does this not affect everyone? this is sadly highly dependent on your genetics. some people deal with processed carbs way better than others.
-  - this makes it way harder for some people to maintain their weight.
+- no, you are not starving yourself while fasting, under the right conditions the body is very capable of using the resources it has available.
   - Video "[Why We Get Fat AND Hungry](https://www.youtube.com/watch?v=KHaCKudtVi0)"
   - Video "[Science of Weight Gain](https://www.youtube.com/watch?v=zcMBm-UVdII)"
   - Video "[What made the Ancient Egyptians Fat and Sick?](https://www.youtube.com/watch?v=YGq_EbYEaSY)"
@@ -123,3 +116,9 @@ I will edit and mark every line with ☑︎ and link to the resource I fact-chec
 - https://www.reddit.com/r/fasting
   - https://www.reddit.com/r/fasting/wiki/fasting_in_a_nutshell/
   - https://www.reddit.com/r/fasting/wiki/fasting_in_a_nutshell/you_need_electrolytes/
+
+## Research To be Done
+- Effects of Uric Acid
+  - Uric Acid will increase temporarily when loosing weight and fasting.
+  - Does Uric Acid cause weight gain? https://pubmed.ncbi.nlm.nih.gov/27283495/
+  
